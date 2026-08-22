@@ -4,7 +4,7 @@
 
 **Contributor GitHub Username:** @LGLenz
 
-**Resource:** `NIST-Privacy-Framework-v1.0-Crosswalk-EU-AI-Act_Kestura.xlsx` (included in this contribution directory)
+**Resource:** `resource-NIST-Privacy-Framework-v1.0-Crosswalk-EU-AI-Act_Kestura.xlsx` (included in this contribution directory)
 
 **Related Documentation:**
 
